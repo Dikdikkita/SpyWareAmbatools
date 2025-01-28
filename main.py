@@ -6,8 +6,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Konfigurasi
-TOKEN = "8170122656:AAEvPa3XPHZr6BAf6kA69wOxYoFojlroflo"
-ALLOWED_USER_ID = 6448306853
+TOKEN = "" #Isi dengan Token Bot Kamu
+ALLOWED_USER_ID = #Isi dengan User ID Kamu
 current_directory = os.getcwd()
 
 # Dapatkan path Desktop
